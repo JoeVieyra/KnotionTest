@@ -1,0 +1,92 @@
+[
+    {
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-y-fFn8KjGMJWwHyFA32_Xvysu-c0c3pHIw&s",
+        "name": "Juan Perez",
+        "description": "Desarrollador iOS con 5 años de experiencia.",
+        "age": 30,
+        "job": "Desarrollador iOS",
+        "phone": "123-456-7890",
+        "address": "Calle Falsa 123"
+    },
+    {
+        "avatar": "https://img.freepik.com/premium-photo/im-up-challenge-cropped-portrait-attractive-young-businesswoman-working-her-desk-office_590464-64778.jpg",
+        "name": "Ana Gomez",
+        "description": "Diseñadora UI/UX apasionada por la creatividad.",
+        "age": 28,
+        "job": "Diseñadora UI/UX",
+        "phone": "987-654-3210",
+        "address": "Avenida Siempre Viva 456"
+    },
+    {
+        "avatar": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "name": "Carlos Ramirez",
+        "description": "Project Manager con enfoque en metodologías ágiles.",
+        "age": 35,
+        "job": "Project Manager",
+        "phone": "456-789-0123",
+        "address": "Boulevard de los Sueños 789"
+    },
+    {
+        "avatar": "https://www.eluniversal.com.mx/resizer/v2/2YHNH6RZFJFLNINPHSNJIV554E.jpg?auth=1be248880dfae722403f7836b6430bec2269b53a6761894057bc9736a63ef3fd&width=1100&height=666&focal=560,483",
+        "name": "Laura Martinez",
+        "description": "Desarrolladora Front-end con pasión por el diseño responsivo.",
+        "age": 26,
+        "job": "Desarrolladora Front-end",
+        "phone": "321-654-9870",
+        "address": "Calle de la Primavera 321"
+    },
+    {
+        "avatar": "https://img.freepik.com/free-photo/handsome-bearded-guy-posing-against-white-wall_273609-20597.jpg?size=626&ext=jpg&ga=GA1.1.2113030492.1720051200&semt=sph",
+        "name": "Miguel Torres",
+        "description": "Analista de datos especializado en big data.",
+        "age": 32,
+        "job": "Analista de datos",
+        "phone": "654-321-0987",
+        "address": "Avenida del Sol 654"
+    },
+    {
+        "avatar": "https://pbs.twimg.com/profile_images/1627829906888425472/UrP8hH-g_400x400.jpg",
+        "name": "Sofia Lopez",
+        "description": "Ingeniera de software con experiencia en backend.",
+        "age": 29,
+        "job": "Ingeniera de software",
+        "phone": "789-012-3456",
+        "address": "Boulevard de la Luna 789"
+    },
+    {
+        "avatar": "https://media.istockphoto.com/id/1364917563/photo/businessman-smiling-with-arms-crossed-on-white-background.jpg?s=612x612&w=0&k=20&c=NtM9Wbs1DBiGaiowsxJY6wNCnLf0POa65rYEwnZymrM=",
+        "name": "Fernando Diaz",
+        "description": "Consultor de TI con amplio conocimiento en ciberseguridad.",
+        "age": 40,
+        "job": "Consultor de TI",
+        "phone": "987-012-3456",
+        "address": "Calle de las Estrellas 987"
+    },
+    {
+        "avatar": "https://i.scdn.co/image/ab6761610000e5eb9b9757d9c52b620070aed717",
+        "name": "Lucia Fernandez",
+        "description": "Especialista en marketing digital y redes sociales.",
+        "age": 27,
+        "job": "Especialista en marketing digital",
+        "phone": "654-098-1234",
+        "address": "Avenida de la Paz 654"
+    },
+    {
+        "avatar": "https://media.istockphoto.com/id/1443627298/photo/half-length-portrait-of-successful-male-boss-dressed-in-elegant-suit-with-crossed-arms.jpg?s=612x612&w=0&k=20&c=eHSZdO4IeOi5luzCi4BqitGDz5IZNuJsiD0tJz3NT4w=",
+        "name": "Javier Morales",
+        "description": "Desarrollador Full Stack con 10 años de experiencia.",
+        "age": 36,
+        "job": "Desarrollador Full Stack",
+        "phone": "321-098-4567",
+        "address": "Calle de la Amistad 321"
+    },
+    {
+        "avatar": "https://talent-land.es/wp-content/uploads/2024/06/tl-2024-es-speaker-02-ai-sofia-lopez-600x800-1.jpg",
+        "name": "Mariana Vega",
+        "description": "Gerente de producto enfocada en soluciones innovadoras.",
+        "age": 34,
+        "job": "Gerente de producto",
+        "phone": "789-654-3210",
+        "address": "Boulevard de los Vientos 789"
+    }
+]
